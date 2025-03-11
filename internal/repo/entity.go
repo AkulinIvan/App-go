@@ -6,6 +6,4 @@ type Task struct {
 	Description string `json:"description"`
 }
 
-type ID struct {
-	ID int
-}
+
